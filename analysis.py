@@ -46,3 +46,13 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig('sales_by_category.png')  # Save the plot as a PNG file
 plt.show()
+
+## Visualizations
+
+- **Sales Over Time**: A line plot showing sales trends over time.
+- **Sales by Category**: A bar plot showing total sales for each product category.
+
+## Requirements
+
+- pandas
+- matplotlib
