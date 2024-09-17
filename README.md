@@ -5,3 +5,9 @@ This project demonstrates how to use `pandas` for data analysis and `Matplotlib`
 ## How to Run
 
 1. Clone the repository:
+
+2. Navigate to the project directory:
+
+3. Install the required dependencies:
+
+4. Run the analysis:
